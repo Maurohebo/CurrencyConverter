@@ -34,4 +34,3 @@ The currency calculator will prompt the user for the following information:
 | `From:`                               | Receive a *String* with the currency origin (i.e USD)      |
 | `To:`                                 | Receive a *String* with the currency destination (i.e JPY) |
 | `Amount:`                             | Receive a *String* with value to convert                   |
-# CurrencyConverter
