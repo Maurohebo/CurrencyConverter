@@ -14,7 +14,7 @@ Inside of the Currency Converter project, you'll see the following folders and f
 
 ```text
 /
-├── App/
+├── app/
 │   └── sync-input/
 │   │   └── index.js
 │   │   └── LICENSE
